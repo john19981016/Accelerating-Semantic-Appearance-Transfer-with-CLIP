@@ -9,7 +9,7 @@ $ pip3 install git+https://github.com/openai/CLIP.git
 $ python3 splice.py
 
 If you want to change the images and texts,
-please change the images in (datasets/curr_pair/A) and (datasets/curr_pair/B)
+please change the images in datasets/curr_pair/A and datasets/curr_pair/B
 and the text and local_text in splice.py
 
 ## Reference
