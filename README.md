@@ -1,5 +1,28 @@
 ## Accelerating Semantic Appearance Transfer with CLIP
-## Created by 2023/1/5 by Yan Yang, Ji
+
+<p align="center">
+<img src="https://github.com/john19981016/Accelerating-Semantic-Appearance-Transfer-with-CLIP/blob/main/images/intro.png" width=100% height=100% 
+class="center">
+</p>
+
+## Overview
+<p align="center">
+<img src="https://github.com/john19981016/Accelerating-Semantic-Appearance-Transfer-with-CLIP/blob/main/images/overview.png" width=100% height=100% 
+class="center">
+</p>
+
+## Results
+<p align="center">
+<img src="https://github.com/john19981016/Accelerating-Semantic-Appearance-Transfer-with-CLIP/blob/main/images/qualitative.png" width=100% height=100% 
+class="center">
+</p>
+
+<p align="center">
+<img src="https://github.com/john19981016/Accelerating-Semantic-Appearance-Transfer-with-CLIP/blob/main/images/speed.png" width=100% height=100% 
+class="center">
+</p>
+
+
 
 ## Set up the environment
 $ pip3 install -r requirements.txt
