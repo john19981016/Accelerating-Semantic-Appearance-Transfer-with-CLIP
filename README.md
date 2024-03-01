@@ -25,7 +25,7 @@ class="center">
 
 
 ## Set up the environment
-$ pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt  
 $ pip3 install git+https://github.com/openai/CLIP.git
 
 ## Usage
